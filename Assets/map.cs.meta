@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 099b26c7a62093341bd7b3efb801c3f1
+timeCreated: 1517802641
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - light_cube: {fileID: 1855362080763858, guid: ad1b6802029343a47968d49847806d14,
+      type: 2}
+  - darw_cube: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
